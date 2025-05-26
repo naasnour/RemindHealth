@@ -1,0 +1,24 @@
+- PROMPT EXAMPLE 1
+
+Write a warm, professional SMS reminder message in under 320 characters
+for a patient named Fatou who has a follow-up appointment with Dr. Diallo
+on Tuesday, May 27 at 3PM at the Dakar Community Clinic.
+
+- RESULT 1:
+Hello Fatou! This is a reminder from Dakar Community Clinic.
+You have a follow-up with Dr. Diallo on Monday, May 27 at 3PM.
+We look forward to seeing you soon. Stay safe!
+
+
+- PROMPT EXAMPLE 2
+
+Create a friendly WhatsApp message for a patient named Boubacar
+who has an eye check-up scheduled with Dr. Sagna on Friday, June 2 at 10AM.
+
+- RESULT 2:
+Hello Boubacar 👋, don’t forget your eye check-up with Dr. Sagna
+on Friday, June 2 at 10AM. We’ll be waiting for you at the clinic.
+If you need to reschedule, just let us know!
+
+---
+RemindHealth • Vibe Coding Hackathon 2025
