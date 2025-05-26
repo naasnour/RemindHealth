@@ -45,7 +45,7 @@ Write a warm, friendly SMS reminder under 320 characters for a patient named Fat
 ![Demo UI](assets/reminderhealthdemo-ui.jpg)
 
 ### App Flow  
-📄 See: [`mockups/mobile-flow.pdf`](mockups/demo-app.py)
+📄 See: [`mockups/demo-app.py`](mockups/demo-app.py)
 
 ---
 
