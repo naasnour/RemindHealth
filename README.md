@@ -42,17 +42,17 @@ Write a warm, friendly SMS reminder under 320 characters for a patient named Fat
 ## Screenshots
 
 ### Demo UI  
-![Demo UI](assets/reminderhealthdemo-ui.jpg)
+![Demo UI](https://github.com/naasnour/RemindHealth/blob/main/assets/reminderhealthdemo-ui.jpg.jpg)
 
 ### App Flow  
-📄 See: [`mockups/demo-app.py`](mockups/demo-app.py)
+📄 See: [`mockups/demo-app.py`](https://github.com/naasnour/RemindHealth/blob/main/mockups/demo-app.py)
 
 ---
 
 ## 📊 Pitch Deck
 
 Download full pitch deck PDF here:  
-📄 [`pitch_deck/RemindHealth_PitchDeck.pdf`](pitch_deck/RemindHealth_PitchDeck.pdf)
+📄 [`pitch_deck/RemindHealth_PitchDeck.pdf`](https://github.com/naasnour/RemindHealth/blob/main/pitch_deck/RemindHealth_PitchDeck.pdf.pdf)
 
 ---
 
